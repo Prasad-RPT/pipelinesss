@@ -47,7 +47,6 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>prasad.n</sys_created_by>
         <sys_created_on>2024-07-15 09:54:07</sys_created_on>
-        <sys_id>b62c7ed33b5f8e103b6dc60864e45a76</sys_id>
         <sys_name>x_rptp_rpt_demo_ap_details</sys_name>
         <sys_package display_value="RPT Demo App" source="x_rptp_rpt_demo_ap">73bbb6133b5f8e103b6dc60864e45af2</sys_package>
         <sys_policy/>
@@ -57,6 +56,7 @@
         <sys_updated_on>2024-07-15 09:54:07</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
+        <u_blocked_time>1970-01-01 00:00:00</u_blocked_time>
         <u_payload/>
         <unique>false</unique>
         <use_dependent_field>false</use_dependent_field>
